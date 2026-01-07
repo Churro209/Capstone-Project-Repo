@@ -1,0 +1,23 @@
+# KiCad generated / local files
+*.gbrjob
+*.kicad_prl
+*.kicad_pro
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+
+
+
+# Project-specific files
+Capstone_Proj.csv
+Capstone_Proj-backups/
+Ina219_Breakout_PCB/KiCad-RP-Pico
+
+# Gerber outputs
+GERBER/
+GERBER.zip
+
+# macOS
+.DS_Store
+Ina219_Breakout_PCB/.DS_Store
