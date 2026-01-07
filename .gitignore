@@ -13,6 +13,7 @@ sym-lib-table
 Capstone_Proj.csv
 Capstone_Proj-backups/
 Ina219_Breakout_PCB/KiCad-RP-Pico
+lab_entry.md
 
 # Gerber outputs
 GERBER/
@@ -21,3 +22,4 @@ GERBER.zip
 # macOS
 .DS_Store
 Ina219_Breakout_PCB/.DS_Store
+
