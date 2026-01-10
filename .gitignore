@@ -23,3 +23,6 @@ GERBER.zip
 .DS_Store
 Ina219_Breakout_PCB/.DS_Store
 
+#lab notebook
+*.md
+*.png
